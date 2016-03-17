@@ -1,0 +1,13 @@
+{
+  "name": "as-github-hooks",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "connect": "^3.4.1",
+    "github-webhook-handler": "0.5.0"
+  }
+}
